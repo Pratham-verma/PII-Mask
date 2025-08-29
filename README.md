@@ -1,5 +1,7 @@
 # PII Detection and Anonymization Script
 
+<img width="800" height="400" alt="image-346" src="https://github.com/user-attachments/assets/5378503f-d43f-49d4-ae2e-3a4c84b03a52" />
+
 This script is designed to detect and anonymize Personally Identifiable Information (PII) in CSV files with JSON data.
 
 ## File Information
